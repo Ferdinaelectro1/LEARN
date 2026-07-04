@@ -1,0 +1,4 @@
+[wokwi]
+version=1
+firmware="../build/SIMD/SIMD.uf2"
+elf="../build/SIMD/SIMD.elf"
